@@ -3,7 +3,7 @@ What do we know so far
 In JavaScript, the source code typically goes through several phases before it is finally executed. The phases are, Tokenizing, Parsing, and Code Generation.
 
 Whenever a JavaScript code runs, it creates something called Execution Context. It helps in determining what code is currently running and helps in allocating memory for every function and variable declarations it finds on the way.
----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
 
 *****The mechanism of allocating memory for the functions and variable declarations within an Execution Context is called Hoisting.*****
 
