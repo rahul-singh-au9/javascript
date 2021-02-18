@@ -38,7 +38,7 @@ Whenever a code is run in JavaScript, it runs within the Execution Context, whic
 
 
 
-**********Global Execution Context(GEC)**************
+****************Global Execution Context(GEC)**************
 
 Whenever a JavaScript Code first runs, it creates something called Global Execution Context(GEC). Even when you do not have a single line of code in a .js file and load it, you will have the Global Execution Context created.
 
